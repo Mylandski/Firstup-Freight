@@ -1,0 +1,83 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+*{
+	box-sizing: border-box;
+}
+	
+h1 {
+	font-size: 60px;
+	background-color: blue;
+	color: white;
+	Text-align: center;
+	border: 3px solid black;
+	
+	
+}
+
+
+h6 {
+	font-size: 30px;
+	text-align: center;
+}
+
+p1 {
+	font-size: 30px;
+}
+
+
+h2 {
+
+	color: silver;
+}
+
+
+
+html {
+	background-color: grey;
+}
+
+h7 {
+	font-size: 30px;
+	float: left;
+}
+
+h3 {
+	font-size: 30px;
+}
+
+h8 {
+	text-align: center;
+}
+
+
+
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+	}
+	
+.tcenter {
+	text-align: center;
+}
+
+.center {
+	float: center;
+}
+
+.tleft {
+	text-align: left;
+}
+
+.font30 {
+	font-size: 30px;
+}
+
+.font20 {
+	font-size: 20px;
+}
