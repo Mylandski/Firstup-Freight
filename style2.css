@@ -5,25 +5,22 @@
 }
 
 .home {
-	background-image: url(./truck.jpg);
+	background-image: url(./truck2.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: 50% 50%;
 }
 
 .career {
 	background-image: url(./truck3.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: 50% 50%;
-}
-
-.grey {
-	color: grey;
 }
 
 .box {
-
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
 }
 
 .a {
@@ -32,24 +29,17 @@
 	font-size: 40px;
 }
 
-.ac {
-	grid-column: 1 / span 7;
-	text-align: center;
-	font-size: 40px;
-	background-color: grey;
-}
-
 .b {
 	grid-column: 1 / span 7;
 	text-align: center;
 	z-index: 1;
-	margin-top: 10px;
 	}
 	
 .c {
 	grid-column: 1 / span 7;
 	text-align: center;
-	font-size: 80px;	
+	font-size: 80px;
+	
 	}
 	
 .d {
@@ -80,13 +70,16 @@
 	font-size: 10px;
 	}
 	
-h1 {
-	margin: 0px;
+.career{
+	
 }
-
+		
 h6 {
 	margin: 0px;
 }
 
+h1 {
+	margin: 0px;
+}
 
 	
